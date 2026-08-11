@@ -1,1 +1,9 @@
 .DS-Store
+.venv
+__pycache__/
+*.pyc
+data/raw/
+data/processed/
+models/sklearn/*.pkl
+models/experiments/
+models/hand_landmarker.task
